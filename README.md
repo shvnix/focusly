@@ -98,9 +98,8 @@ pip install -r requirements.txt
 
     Enable Authentication → Email, Google & Phone Sign-in.
 
-    Download your Admin SDK JSON and save it as:
+    Download your Admin SDK JSON and save it as: "firebase_key.json"
 
-    firebase_key.json
 
 ### 5️⃣ Add a firebase_key.json file, Note- also change firebase config in templates
 ```bash
