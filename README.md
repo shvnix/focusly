@@ -205,6 +205,11 @@ use id- top@gmail.com,
 password- 1234567890 (only for testing and review the web app in condition sign up not working.)
 
 ---
+
+## 📜 License
+This project is licensed under the MIT License. Feel free to modify and use it.
+
+
 👨‍💻 Author
 
 Shivansh Panwar
