@@ -214,9 +214,6 @@ This project is licensed under the MIT License. Feel free to modify and use it.
 
 Shivansh Panwar
 
-📧 shivanshpawar7448@gmail.com
-
-🌐 https://www.linkedin.com/in/shivansh-d-p/
 
 
     ⚡ “Focusly doesn’t just manage your tasks — it manages your time, your goals, and your life.”
