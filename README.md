@@ -78,7 +78,7 @@ Follow these steps to run Focusly locally.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/shivansshhhh/focusly.git
+git clone https://github.com/shvnix/focusly.git
 cd focusly
 ```
 ### 2️⃣ Create a virtual environment
